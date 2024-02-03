@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom_link {
+    @apply underline font-bold text-blue-900
+}
